@@ -1,3 +1,12 @@
+/*
+ * HackerRank link:https://www.hackerrank.com/contests/cst370-su20-hw7/challenges/radix-sort-4-1/submissions/code/1324191099
+ * Title: hw7_1.java
+ * Abstract: Reads in numbers by user and performs radix sort, outputting each interim step and final sort
+ * Author: Adam Houser
+ * ID: 1144
+ * Date: 6/10/2020
+ */
+
 package com.company;
 
 import java.util.Arrays;
@@ -7,7 +16,6 @@ public class hw7_1 {
 
     public static void main(String[] args) {
 
-        int size = 0;
         int max = 0;
 
         Scanner in = new Scanner(System.in);
